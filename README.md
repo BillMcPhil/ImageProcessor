@@ -12,4 +12,6 @@ Possible edits to the image include:
 >
 > Compressing an image.
 
-Examples of each are provided in the files.
+Examples of each are provided in the files. tree.png is the original image file, and the other images are labeled according to the operations performed
+
+merged.png merged the original tree image with inverted.png
